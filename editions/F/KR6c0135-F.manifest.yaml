@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6c0135/F/v1
+canonical_location: https://kanripo.org/bkk/KR6c0135/F/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵本般若波羅蜜多心經
+  identifiers:
+    krp: KR6c0135
+    cbeta: F27n1060
+    cbeta_old_id: F27n1060
+    authorityid: CA0008077
+    json_key: F1060
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F27/F27n1060.xml
+    old_id: F27n1060
+  edition:
+    short: F
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0135_000-F.yaml, hash: 'sha256:509601d68acdb6cf0fe333e9fa52b16fedcecf7b4de319f4a6eb0dd94978897b'}
+  - {seq: 1, filename: KR6c0135_001-F.yaml, hash: 'sha256:c399fa787f69f20c766226c29f5e93f235d0dc850d2ed2a7dd96d789fe2cf6fc'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0135_000-F.markers.yaml, hash: 'sha256:30f4af4b5184d596bd5d2369c3984774740c262fed7f5d833e93ccf453fa80b9'}
+  - {seq: 1, role: markers, filename: assets/KR6c0135_001-F.markers.yaml, hash: 'sha256:8c2d6190fc16ce30c5d4eb54fe9834bce433fbcef2aa121a158958b326a5d744'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6c0135_F_001-juan-start
+    span:
+    - body
+    - 0
+    - 1058
+  label: 梵本般若波羅蜜多心經一卷　　　丁
+  type: juan
+  level: 1
+hash: sha256:d15a76c49404460bc33935949a8a92c2f11b5d8257a912983297d6cdf53f77e6

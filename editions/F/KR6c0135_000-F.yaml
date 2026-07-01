@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6c0135/f/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵本般若波羅蜜多心經
+  edition:
+    short: f
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F27/F27n1060.xml
+    old_id: F27n1060
+hash: sha256:509601d68acdb6cf0fe333e9fa52b16fedcecf7b4de319f4a6eb0dd94978897b
