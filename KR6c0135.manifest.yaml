@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6c0135_000.yaml, hash: 'sha256:509601d68acdb6cf0fe333e9fa52b16fedcecf7b4de319f4a6eb0dd94978897b'}
-  - {seq: 1, filename: KR6c0135_001.yaml, hash: 'sha256:27dfddd766026f90206e0ff32af4fab0e30cafa5de41ba655355b171a46dda4d'}
+  - {seq: 1, filename: KR6c0135_001.yaml, hash: 'sha256:c399fa787f69f20c766226c29f5e93f235d0dc850d2ed2a7dd96d789fe2cf6fc'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6c0135_001.markers.yaml, hash: 'sha256:4ed14c302b8440c155677df61dc09562ca4c8361040c4880d14f3c532762be37'}
+  - {seq: 0, role: markers, filename: assets/KR6c0135_000.markers.yaml, hash: 'sha256:508d4e5d6eb2e1c17d1913c811884326d878ecfe6be037b748de3457346e8d9b'}
+  - {seq: 1, role: markers, filename: assets/KR6c0135_001.markers.yaml, hash: 'sha256:0c641b7aab36aecb08470cfc13b93bfc1fdd1bca76e1006ebb9696b9d548d54a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 梵本般若波羅蜜多心經一卷　　　丁
   type: juan
   level: 1
-hash: sha256:6a244d44fdae99264edb0bf999551cefb1abbc0c1f9054dfa6c8d765af916e25
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:eb2921e6fa822bd610ab22934830797bae44ed18eebbe3445ae1eb8e2234a912
 editions:
 - short: F
